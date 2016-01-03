@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CanvasButtonHelper.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UIManagerScript.cs" Line="48" Column="25" />
+      <File FileName="Assets\Scripts\HitFinishLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScrollingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanvasButtonHelper.cs" Line="13" Column="51" />
+      <File FileName="Assets\Scripts\RandomPoulpiHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonEventScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
